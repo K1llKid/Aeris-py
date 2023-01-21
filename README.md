@@ -1,5 +1,6 @@
 # | Presentation
-My name is A3R1S, I develop projects for communities and myself. I'm the founder of Skadovskia, the biggest French community based on the STALKER universe, and on top of that I manage an RP server on the same universe.![This is an image](https://cdn.discordapp.com/emojis/714042452415348766.webp?size=128&quality=lossless = 500x500)
+My name is A3R1S, I develop projects for communities and myself. I'm the founder of Skadovskia, the biggest French community based on the STALKER universe, and on top of that I manage an RP server on the same universe. ![image]([http://url.to/image.png](https://cdn.discordapp.com/emojis/714042452415348766.webp?size=128&quality=lossless) "Title" {width=40px height=400px})
+
 # | My Projects ![]()
 
 > Skadovskia | A serious rp server developed on helix.
