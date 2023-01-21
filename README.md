@@ -5,4 +5,4 @@ My name is A3R1S, I develop projects for communities and myself. I'm the founder
 > Skadovskia | A serious rp server developed on helix.
 > [The Discord](https://discord.gg/855zfAUur5)
 > 
->![This is an image](https://cdn.discordapp.com/attachments/926167156939448360/1037163766355333150/stalker2_logo.png)
+>![This is an image](https://cdn.discordapp.com/attachments/926167156939448360/1037163766355333150/stalker2_logo.png = 500x500)
